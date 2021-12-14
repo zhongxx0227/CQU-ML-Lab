@@ -3,13 +3,11 @@
 
 ## Lab1 logistics regression
 
-
+用对率回归实现分类算法，应用于西瓜、鸢尾花数据集。
 
 ## Lab2 BPNN 
 
-BP算法构建人工神经网络，用于iris和wine数据集分类
-
-
+用BP算法构建人工神经网络，应用于iris和wine数据集分类
 
 ## Lab3 Decision Tree
 
